@@ -8,7 +8,7 @@ Oue team chose the following attributes to predict the labels for:
 2. Occasion
 3. Category
 4. Fit
-5. Primary Color
+5. Primary Color, Subcategory Top
 
 The approach was to clean the data and then use tokenizing, n-grams, tf-idf etc to create features.
 We then used neural networks for supervised learning and create prediction models.
