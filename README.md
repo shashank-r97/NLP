@@ -1,4 +1,3 @@
-## DSO 560 NLP Project
 # DSO 560 NLP Project Group Magenta
 
 **Goal** Label tags for products in the women clothes category
